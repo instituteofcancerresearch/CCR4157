@@ -2,7 +2,8 @@
 
 TCR sequencing data from the CCR4157 study
 
-This repository includes code used in the paper "T-cell receptor determinants of response to chemoradiation in locallyadvanced HPV16-driven malignancies" published in Frontiers in Oncology (DOI: )
+This repository includes code used in the paper "T-cell receptor determinants of response to chemoradiation in locallyadvanced HPV16-driven malignancies" published in Frontiers in Oncology (Front. Oncol. 13:1296948.
+doi: 10.3389/fonc.2023.1296948)
 
 ## UMAP from GLIPH2 results
 
